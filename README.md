@@ -1,4 +1,4 @@
-# 📂 Universal File Organizer
+# 📂 Universal File Organizer (my first project in GitHub)
 
 An automated Python script that instantly declutters your messy folders by sorting files into neat, categorized directories based on their extensions. 
 
